@@ -6,10 +6,13 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/anaisleger
+      href: https://www.linkedin.com/in/anaisleger/
     - icon: github
       text: Github
       href: https://github.com/AnaisLeger23
+    - icon: book
+      text: Scholar
+      href: https://scholar.google.com/citations?hl=fr&tzom=-60&user=3e7GAhMAAAAJ&view_op=list_works
 ---
 
 I am a veterinarian specialised in veterinary public health. I worked on various topics from zoonoses, animal surveillance, antimicrobial resistance, to governance and complex systems, but always directly related to public health.

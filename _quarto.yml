@@ -19,7 +19,9 @@ website:
       - icon: github
         href: https://github.com/AnaisLeger23
       - icon: linkedin
-        href: www.linkedin.com/in/anaisleger
+        href: https://www.linkedin.com/in/anaisleger/
+      - icon: book
+        href: https://scholar.google.com/citations?hl=fr&tzom=-60&user=3e7GAhMAAAAJ&view_op=list_works
 format:
   html:
     theme:
