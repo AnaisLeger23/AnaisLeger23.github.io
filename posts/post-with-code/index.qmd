@@ -1,0 +1,9 @@
+---
+title: "Post With Code"
+author: "Anaïs Léger"
+date: "2026-01-31"
+categories: [analysis, antimicrobial use, companion animals]
+image: "image.jpg"
+---
+
+These are the Swiss data on antimicrobial use I participated in the analyses of the data for companion animals. Find out more about AMU in animals in Switzerland [here](https://www.dashboard.blv.admin.ch/animals/veterinary-medicines/antibiotic_consumption){target="_blank"}
